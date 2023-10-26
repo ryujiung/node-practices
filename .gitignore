@@ -1,1 +1,15 @@
-/.metadata/
+##mac
+**/.DS_Store
+
+## maven
+**/target/
+**/build/
+**/out
+
+## eclipse
+**/.settings
+**/.classpath
+**/.project
+
+## 
+**/node_modules
